@@ -1,0 +1,14 @@
+C:\Users\kugao\Desktop\ATM_Machine\bin\Debug\net7.0\ATM_Machine.exe
+C:\Users\kugao\Desktop\ATM_Machine\bin\Debug\net7.0\ATM_Machine.deps.json
+C:\Users\kugao\Desktop\ATM_Machine\bin\Debug\net7.0\ATM_Machine.runtimeconfig.json
+C:\Users\kugao\Desktop\ATM_Machine\bin\Debug\net7.0\ATM_Machine.dll
+C:\Users\kugao\Desktop\ATM_Machine\bin\Debug\net7.0\ATM_Machine.pdb
+C:\Users\kugao\Desktop\ATM_Machine\obj\Debug\net7.0\ATM_Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kugao\Desktop\ATM_Machine\obj\Debug\net7.0\ATM_Machine.AssemblyInfoInputs.cache
+C:\Users\kugao\Desktop\ATM_Machine\obj\Debug\net7.0\ATM_Machine.AssemblyInfo.cs
+C:\Users\kugao\Desktop\ATM_Machine\obj\Debug\net7.0\ATM_Machine.csproj.CoreCompileInputs.cache
+C:\Users\kugao\Desktop\ATM_Machine\obj\Debug\net7.0\ATM_Machine.dll
+C:\Users\kugao\Desktop\ATM_Machine\obj\Debug\net7.0\refint\ATM_Machine.dll
+C:\Users\kugao\Desktop\ATM_Machine\obj\Debug\net7.0\ATM_Machine.pdb
+C:\Users\kugao\Desktop\ATM_Machine\obj\Debug\net7.0\ATM_Machine.genruntimeconfig.cache
+C:\Users\kugao\Desktop\ATM_Machine\obj\Debug\net7.0\ref\ATM_Machine.dll
